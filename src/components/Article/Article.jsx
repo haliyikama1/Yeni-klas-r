@@ -7,7 +7,7 @@ export default function Article () {
     <article>
       <div className={styles.container}>
         <div className={styles.headings}>
-          <h2>Özer Hafriyat: İstanbul&apos;;un Lider Hafriyat Firması</h2>
+          <h2>Özer Hafriyat: İstanbul&apos;un Lider Hafriyat Firması</h2>
         </div>
         <div className={styles.content}>
           <p className={styles.headingsDescription}>
