@@ -27,7 +27,7 @@ const Hero = () => {
               </button>
               
               <button className={styles.buttonSecondary}>
-              <Link href="https://wa.me/905375198067?text=Merhabalar,%20hafriyat%20hizmetiyle%ilgili%bilgi%almak%için%yazıyorum">WhatsApp&apostan İletişime Geç</Link>
+              <Link href="https://wa.me/905375198067?text=Merhabalar,%20hafriyat%20hizmetiyle%ilgili%bilgi%almak%için%yazıyorum">WhatsApp&apos;tan İletişime Geç</Link>
               </button>
             </div>
             
