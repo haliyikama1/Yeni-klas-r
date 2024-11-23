@@ -1,6 +1,6 @@
-import { ArrowRight } from 'lucide-react';
-import styles from './hero.module.css';
-import Link from 'next/link'
+import { ArrowRight } from "lucide-react";
+import styles from "./hero.module.css";
+import Link from "next/link"
 
 const Hero = () => {
   return (
@@ -27,7 +27,7 @@ const Hero = () => {
               </button>
               
               <button className={styles.buttonSecondary}>
-              <Link href="https://wa.me/905375198067?text=Merhabalar,%20hafriyat%20hizmetiyle%ilgili%bilgi%almak%için%yazıyorum">WhatsApp'tan İletişime Geç</Link>
+              <Link href="https://wa.me/905375198067?text=Merhabalar,%20hafriyat%20hizmetiyle%ilgili%bilgi%almak%için%yazıyorum">WhatsApp&apostan İletişime Geç</Link>
               </button>
             </div>
             

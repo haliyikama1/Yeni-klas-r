@@ -12,7 +12,7 @@ export default function Footer () {
             </div>
             <div class={styles.footer2}>
                 <span class={styles.span2}>
-                <Link href="https://wa.me/905375198067?text=Merhabalar,%20hafriyat%20hizmetiyle%20ilgili%20bilgi%20almak%20için%20yazıyorum">WhatsApp'tan İletişime Geç</Link>
+                <Link href="https://wa.me/905375198067?text=Merhabalar,%20hafriyat%20hizmetiyle%20ilgili%20bilgi%20almak%20için%20yazıyorum">WhatsApp&apostan İletişime Geç</Link>
                 </span>
             </div>
 
