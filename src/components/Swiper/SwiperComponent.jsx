@@ -56,8 +56,8 @@ export default function SwiperComponent() {
         <div className={styles.container}>
             <div className={styles.imageContainer}>
                 <div class={styles.back}>
-                    <p  class={styles.buttons} onClick={backImage}>
-                    <IoArrowBackCircle size={sizex}/>
+                    <p  class={styles.buttons} >
+                    <IoArrowBackCircle size={sizex} onClick={backImage}/>
                     </p>
                 </div>
                 <Image
@@ -68,8 +68,8 @@ export default function SwiperComponent() {
                 />
             </div>
                 <div class={styles.next} >
-                <p class={styles.buttons} onClick={nextImage}>
-                <IoArrowForwardCircle size={sizex}/>
+                <p class={styles.buttons} >
+                <IoArrowForwardCircle size={sizex} onClick={nextImage}/>
 
                 </p>
             </div>
